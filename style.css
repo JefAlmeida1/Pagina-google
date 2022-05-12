@@ -14,6 +14,21 @@ body{
     background-color: #0CB1F2;
     padding: 10px;
     box-shadow: none;
-    cursor: pointer;
 }
 
+.corpo{
+    color: white;
+    text-align: center;    
+}
+
+.campos{
+    margin-top: 5px;
+    text-align: center;
+    
+}
+
+.pesquisar, .sorte{
+    padding: 5px;
+    border-radius: 5px;
+    
+}
