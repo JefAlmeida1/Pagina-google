@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    background-color: #1F2526;
+}
+
+.nav-li{
+    text-align: right;
+}
+
+.login{
+    border-radius: 5px;
+    color: #737373;
+    background-color: #0CB1F2;
+}
