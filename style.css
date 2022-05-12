@@ -14,6 +14,7 @@ body{
     background-color: #0CB1F2;
     padding: 10px;
     box-shadow: none;
+    border: #0CB1F2;
 }
 
 .corpo{
@@ -30,5 +31,21 @@ body{
 .pesquisar, .sorte{
     padding: 5px;
     border-radius: 5px;
+    background-color: #303134;
+    border: #303134;
+    color: white;
+}
+
+input{
+
+    border-radius: 15px;
+
+}
+
+.login, .pesquisar, .sorte{
+    cursor: pointer;
+}
+
+footer{
     
 }
